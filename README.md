@@ -118,9 +118,9 @@ Revise a interface, a responsividade, a organização dos componentes e a qualid
 - O repositório deverá conter um README com instruções para instalação e execução.
 - O repositório deverá ser público e estar publicado no GitHub do candidato.
 
-## 9. Uso do ChatGPT
+## 9. Uso do Ia
 
-O uso do ChatGPT está permitido durante todo o desenvolvimento.
+O uso do Ia está permitido durante todo o desenvolvimento.
 
 O candidato poderá utilizá-lo para pesquisar soluções, compreender conceitos, gerar sugestões de código e corrigir erros.
 
